@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"123123123","image":"https://cdnb.artstation.com/p/assets/images/images/059/635/815/large/vladislav-kuzmenyuk-img-20230219-190511-926.jpg?1676830758","date":"2023-11-04","description":"123123123","id":"260323ae-6742-4aae-a899-3f9e1a03305c"}],"users":[{"email":"test@myshop.com","password":"$2a$12$RJmR8NHFQwIIcg1igdLo8.cr3TpxJv5Z/NzVSmBbNS5Sz0/.XBlo6","id":"543aa0cf-e420-41c4-b965-298b00ca8924"},{"email":"test2@myshop.com","password":"$2a$12$UONfaL4i7tva.65g.S97nOmZafKAp38Q8AgVh0QeQFBgM9Ur143Yq","id":"80eece24-7def-4425-b189-385147a9c239"},{"email":"test3@myshop.com","password":"$2a$12$0KNsSEH3//r52.w6TfwMr.3Kxq.DuLpKbG.SUp3Z6wsdk3zG7KOtS","id":"8294a964-b8b4-4ea4-adb6-d102eaa39dae"}]}
